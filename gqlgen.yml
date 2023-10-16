@@ -85,3 +85,6 @@ models:
       - github.com/99designs/gqlgen/graphql.Int
       - github.com/99designs/gqlgen/graphql.Int64
       - github.com/99designs/gqlgen/graphql.Int32
+  MyDate:
+    model:
+      - github.com/silmin/gqlgen_test/graph/model.MyDate
