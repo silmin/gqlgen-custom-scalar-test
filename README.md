@@ -1,1 +1,1 @@
-# gqlgen_test
+# gqlgen cumstom scalar test
